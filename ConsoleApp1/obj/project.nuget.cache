@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7hsN081klNJceg/Jn3UhpZdHYAj2hvI+/kFcVTBIRjy+X3L4ZRwMfZW895/L7z1lAYiOIJEHzhZnptvE5C6Tkw==",
+  "success": true,
+  "projectFilePath": "C:\\SpaceEngineersMod\\ConsoleApp1\\SurvivalProgression.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dean.hall\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\SpaceEngineersMod\ConsoleApp1\obj\Debug\netcoreapp3.1\SurvivalProgression.csproj.AssemblyReference.cache
+C:\SpaceEngineersMod\ConsoleApp1\obj\Debug\netcoreapp3.1\SurvivalProgression.GeneratedMSBuildEditorConfig.editorconfig
+C:\SpaceEngineersMod\ConsoleApp1\obj\Debug\netcoreapp3.1\SurvivalProgression.AssemblyInfoInputs.cache
+C:\SpaceEngineersMod\ConsoleApp1\obj\Debug\netcoreapp3.1\SurvivalProgression.AssemblyInfo.cs
+C:\SpaceEngineersMod\ConsoleApp1\obj\Debug\netcoreapp3.1\SurvivalProgression.csproj.CoreCompileInputs.cache
